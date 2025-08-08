@@ -10,16 +10,17 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-A020F0?logo=n8n&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?logo=pytorch&logoColor=EE4C2C)
+![n8n Automation](https://img.shields.io/badge/n8n%20Automation-A020F0?logo=n8n&logoColor=white)
 
 ---
 
