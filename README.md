@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://i.imgur.com/Z5mTkvG.png) <!-- Bạn có thể thay link ảnh banner của bạn -->
+![Header](https://i.imgur.com/Z5mTkvG.png) <!-- Thay link ảnh banner của bạn -->
 
 # 👋 Hi, I'm Nguyen Dong
 
@@ -13,18 +13,35 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-A020F0?logo=n8n&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-- [📌 AI Real-time Alert System](https://github.com/ngodongnguyen/project-ai-alert) – Hệ thống cảnh báo real-time dùng n8n + AI sentiment analysis.
-- [📌 Twitter/X Data Collector](https://github.com/ngodongnguyen/twitter-collector) – Lấy dữ liệu Twitter real-time qua API và lưu PostgreSQL.
-- [📌 Social Media Data Pipeline](https://github.com/ngodongnguyen/social-data-pipeline) – Thu thập & phân loại dữ liệu từ nhiều nguồn social.
+- [🏨 Hotel Management System](https://github.com/ngodongnguyen/Hotel_Management_System)  
+  **Ngôn ngữ:** C# | **Mục tiêu:** Xây dựng ứng dụng quản lý khách sạn toàn diện  
+  🔹 Tích hợp quản lý đặt phòng, thanh toán, và báo cáo doanh thu  
+  🔹 Giao diện thân thiện, hỗ trợ vận hành nghiệp vụ khách sạn mượt mà  
+  🔹 Thiết kế mô-đun dễ mở rộng và bảo trì
+
+- [☁️ Hadoop & Flask on AWS](https://github.com/ngodongnguyen/Hadoop-and-Flask-on-AWS)  
+  **Công nghệ:** Hadoop, AWS EC2, Flask | **Mục tiêu:** Hệ thống xử lý dữ liệu phân tán trên nền tảng đám mây  
+  🔹 Triển khai cluster Hadoop trên AWS để xử lý dữ liệu lớn tốc độ cao  
+  🔹 Tích hợp Flask API để truy xuất dữ liệu phân tích từ Hadoop  
+  🔹 Tối ưu hiệu suất và bảo mật khi vận hành trên môi trường cloud
+
+- [🏠 Real Estate Price Prediction (Big Data)](https://github.com/ngodongnguyen/SIC_BigData_Real-Estate-Price-Prediction)  
+  **Công nghệ:** Python, Spark, ML | **Mục tiêu:** Dự đoán giá bất động sản từ dữ liệu lớn  
+  🔹 Thu thập dữ liệu tự động qua web crawling từ nhiều nguồn  
+  🔹 Tiền xử lý & phân tích dữ liệu bằng Spark, áp dụng mô hình Machine Learning  
+  🔹 Trực quan hóa kết quả dự đoán, hỗ trợ quyết định đầu tư
 
 ---
 
