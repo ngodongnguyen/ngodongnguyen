@@ -50,7 +50,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngodongnguyen&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngodongnguyen&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngodongnguyen&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ngodongnguyen&theme=radical&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ngodongnguyen&theme=react-dark)
 
 ---
