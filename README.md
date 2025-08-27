@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Header](https://i.imgur.com/Z5mTkvG.png) <!-- Replace with your own banner image -->
-
 # 👋 Hi, I'm Nguyen Dong
 
 💻 **Data Engineer** | **Big Data & Cloud Enthusiast** | **Machine Learning Explorer**  
