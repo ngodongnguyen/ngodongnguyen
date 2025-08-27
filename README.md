@@ -1,10 +1,10 @@
 <!-- Banner -->
-![Header](https://i.imgur.com/Z5mTkvG.png) <!-- Thay link ảnh banner của bạn -->
+![Header](https://i.imgur.com/Z5mTkvG.png) <!-- Replace with your own banner image -->
 
 # 👋 Hi, I'm Nguyen Dong
 
 💻 **AI & Automation Enthusiast** | **Data Engineer** | **n8n Workflow Developer**  
-🚀 Đam mê xây dựng hệ thống tự động hóa real-time, thu thập & phân tích dữ liệu từ social/web, và ứng dụng AI để tối ưu hiệu suất.
+🚀 Passionate about building real-time automation systems, collecting & analyzing data from social/web sources, and applying AI to optimize performance.
 
 ---
 
@@ -27,39 +27,39 @@
 ## 🌟 Featured Projects
 
 - [🏨 Hotel Management System](https://github.com/ngodongnguyen/Hotel_Management_System)  
-  **Ngôn ngữ:** C# | **Mục tiêu:** Xây dựng ứng dụng quản lý khách sạn toàn diện  
-  🔹 Tích hợp quản lý đặt phòng, thanh toán, và báo cáo doanh thu  
-  🔹 Giao diện thân thiện, hỗ trợ vận hành nghiệp vụ khách sạn mượt mà  
-  🔹 Thiết kế mô-đun dễ mở rộng và bảo trì
+  **Language:** C# | **Goal:** Develop a comprehensive hotel management application  
+  🔹 Integrated room booking, payment, and revenue reports  
+  🔹 User-friendly interface for smooth hotel operations  
+  🔹 Modular design for easy maintenance and scalability
 
 - [☁️ Hadoop & Flask on AWS](https://github.com/ngodongnguyen/Hadoop-and-Flask-on-AWS)  
-  **Công nghệ:** Hadoop, AWS EC2, Flask | **Mục tiêu:** Hệ thống xử lý dữ liệu phân tán trên nền tảng đám mây  
-  🔹 Triển khai cluster Hadoop trên AWS để xử lý dữ liệu lớn tốc độ cao  
-  🔹 Tích hợp Flask API để truy xuất dữ liệu phân tích từ Hadoop  
-  🔹 Tối ưu hiệu suất và bảo mật khi vận hành trên môi trường cloud
+  **Tech:** Hadoop, AWS EC2, Flask | **Goal:** Distributed data processing system on the cloud  
+  🔹 Deployed a Hadoop cluster on AWS for high-speed big data processing  
+  🔹 Integrated Flask API to fetch analytics results from Hadoop  
+  🔹 Optimized performance and security for cloud environments
 
 - [🏠 Real Estate Price Prediction (Big Data)](https://github.com/ngodongnguyen/SIC_BigData_Real-Estate-Price-Prediction)  
-  **Công nghệ:** Python, Spark, ML | **Mục tiêu:** Dự đoán giá bất động sản từ dữ liệu lớn  
-  🔹 Thu thập dữ liệu tự động qua web crawling từ nhiều nguồn  
-  🔹 Tiền xử lý & phân tích dữ liệu bằng Spark, áp dụng mô hình Machine Learning  
-  🔹 Trực quan hóa kết quả dự đoán, hỗ trợ quyết định đầu tư
+  **Tech:** Python, Spark, ML | **Goal:** Predict real estate prices from large datasets  
+  🔹 Automated web crawling from multiple sources for data collection  
+  🔹 Data preprocessing & analysis with Spark + Machine Learning models  
+  🔹 Visualization of predictions to support investment decisions
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngodongnguyen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngodongnguyen&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ngodongnguyen&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngodongnguyen&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngodongnguyen&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ngodongnguyen&theme=radical&hide_border=true)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ngodongnguyen&theme=react-dark)
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nguyen38/)
-[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/YOUR-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ngodongnguyen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nguyen38/)  
+[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/YOUR-HANDLE)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ngodongnguyen)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
