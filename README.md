@@ -33,6 +33,8 @@
 
 ### 📄 BEM-UNet: A Boundary-Enhanced State Space U-Net
 
+![Publication](https://img.shields.io/badge/The_Visual_Computer-Accepted-FF3399?style=for-the-badge)
+
 **Journal:** The Visual Computer (Springer)  
 **Status:** Accepted for Publication
 
