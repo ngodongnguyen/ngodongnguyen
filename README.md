@@ -1,6 +1,18 @@
-# 👋 Hi, I'm Nguyen Dong
 
-💻 **AI Engineer | AI Researcher | Computer Vision & LLM Enthusiast**
+<div align="center">
+
+<h1>👋 Hi, I'm Nguyen Dong</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=FF3399&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+AI+Researcher;Computer+Vision+%26+Deep+Learning;Large+Language+Models+%26+RAG;Turning+AI+Research+into+Reality" alt="Typing SVG" />
+
+<p>
+  🔬 AI Research &nbsp;•&nbsp;
+  🧠 Computer Vision &nbsp;•&nbsp;
+  🤖 LLMs
+</p>
+
+</div>
+
 
 🚀 Passionate about developing **intelligent AI systems**, exploring **Deep Learning**, **Computer Vision**, and **Large Language Models (LLMs)**.
 
