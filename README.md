@@ -118,7 +118,8 @@
 
 ---
 
-## 📫 Connect with Me
+
+<h2>📫 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyen38/">
@@ -130,10 +131,6 @@
   <a href="mailto:ngodongnguyen27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  📧 ngodongnguyen27@gmail.com
 </p>
 
 
