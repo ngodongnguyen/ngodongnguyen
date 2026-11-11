@@ -104,20 +104,37 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ngodongnguyen&show_icons=true&theme=radical)
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ngodongnguyen&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ngodongnguyen&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</p>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ngodongnguyen&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ngodongnguyen&theme=radical&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ngodongnguyen&theme=radical&hide_border=true)
-
+---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nguyen38/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ngodongnguyen)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyen38/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ngodongnguyen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ngodongnguyen27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
+<p align="center">
+  📧 ngodongnguyen27@gmail.com
+</p>
+
 
 > ⚡ *"Bridging AI research and real-world applications through intelligent systems."*
