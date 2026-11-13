@@ -35,7 +35,7 @@
 
 ![Publication](https://img.shields.io/badge/The_Visual_Computer-Accepted-FF3399?style=for-the-badge)
 
-**Journal:** The Visual Computer (Springer)  
+**Journal:** The Visual Computer (Springer, IF 3.4)  
 **Status:** Accepted for Publication
 
 **Authors:** Dong-Nguyen Ngo, Vinh Truong Hoang, Viet-Tuan Le
